@@ -2,13 +2,11 @@
 
 ## Overview
 
-This analysis looks at volume and return on certain stocks over a given year with given data. This will help in making investment decisions. 
-
-The project also contains modular code that should make it easy to edit, or run further analysis on similarly formatted data in the future. 
+This analysis looks at volume and return on certain stocks over a given year with given data. This will help in making investment decisions.The project also contains modular code that should make it easy to edit, or run further analysis on similarly formatted data in the future. 
 
 ## Results
 
-The selected stocks performed, on average, much better in 2017 than 2018. 
+The selected stocks performed, on average, better in 2017 than 2018. 
 
 ### 2017
 
