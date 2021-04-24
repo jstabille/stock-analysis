@@ -44,7 +44,7 @@ Code should not be refactored on below cases
 
 Code Refactoring is an important exercise to remove code smell. It helps to find bugs, makes programs run faster, it's easier to understand the code, improves the design of software, etc. 
 
-### Refactoring code for stock analysis code
+### Refactoring code for stock analysis
 
 In this context, the code used had nested `For` loops, which mean it ran through the code more than needed. When we refactored it, I used a ticker index, which allowed it to run wihout the nested loops, now It runs faster, is cleaner, and easier to understand. 
 
