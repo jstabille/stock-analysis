@@ -24,7 +24,7 @@ By contrast, the returns in 2018 on the same stocks were on average megative. RU
 
 The runtime for the code in 2018 was 0.234375, slightly faster than for the data in 2017
 
-## Summary 
+## Gains Obainted due to refactured code
 
 ### Notes on Refactoring code
 
