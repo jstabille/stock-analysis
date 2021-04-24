@@ -12,7 +12,7 @@ The selected stocks performed, on average, much better in 2017 than 2018.
 
 ### 2017
 
-![Results and runtime from 2017](Resources/VBA_Challenge_2017.PNG)
+![Results and runtime from 2017](Resources/VBA_Challenge_2017.png)
 
 All of the sampled green stocks had positive returns in 2017, aside from TERP, which had a low negative return. DQ, SEDG, ENPH and FSLR all had returns above 100%. 
 
@@ -20,7 +20,7 @@ The runtime for the code in 2017 was 0.15625, less than 2/10 of a second.
 
 ### 2018
 
-![Results and runtime from 2018](Resources/VBA_Challenge_2018.PNG)
+![Results and runtime from 2018](Resources/VBA_Challenge_2018.png)
 
 By contrast, the returns in 2018 on the same stocks were on average megative. RUN and ENPH continued to turn profitable, with a much better year for RUN than 2017, but the rest of the stocks listed were in negative returns. 
 
