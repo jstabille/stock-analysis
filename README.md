@@ -14,7 +14,7 @@ The selected stocks performed, on average, better in 2017 than 2018.
 
 All of the sampled green stocks had positive returns in 2017, aside from TERP, which had a low negative return. DQ, SEDG, ENPH and FSLR all had returns above 100%. 
 
-The runtime for the code in 2017 was 0.3046875, less than 2/10 of a second.
+The runtime for the code in 2017 was 0.3046875 seconds.
 
 ### 2018
 
