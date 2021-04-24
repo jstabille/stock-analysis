@@ -6,7 +6,7 @@ This analysis looks at volume and return on certain stocks over a given year wit
 
 ## Results
 
-The selected stocks performed, on average, better in 2017 than 2018. 
+The selected stocks performed, on average, better in 2017 than 2018. The refractured code ran faster than the previous version. 
 
 ### 2017
 
